@@ -1,2 +1,4 @@
 # MovieStar
-(POO)
+* (POO)
+* CRUD
+* Responsivo
